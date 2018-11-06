@@ -1,4 +1,4 @@
-# Project Simple Calculator version 0.1 Dawid Bojaruniec
+# Project Simple Calculator version 0.1 Dawid B.
 
 #  menu
 
